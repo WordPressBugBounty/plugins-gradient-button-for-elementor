@@ -2,10 +2,10 @@
 Contributors: bloompixel, simrandeep
 Donate link: https://www.paypal.me/BloomPixel
 Tags: elementor, elementor gradient button, elementor button, elementor addons, elementor gradient button widget
-Requires at least: 5.9
-Tested up to: 6.3
-Stable tag: 1.0.0
-Requires PHP: 5.6
+Requires at least: 6.3
+Tested up to: 6.8
+Stable tag: 1.0.11
+Requires PHP: 7.4
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
